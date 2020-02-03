@@ -3,15 +3,21 @@
 
 
 <!-- 2获取用户信息的方式 -->
-<button size="mini"
+<!-- <button size="mini"
  open-type="getUserInfo"
  bindgetuserinfo="handleGetUserInfo">
   获取授权
-  </button>
+  </button> -->
  
  <!-- 3展示用户信息的方法 -->
-<open-data type="userNickName"></open-data>
-<open-data type="userAvatarUrl"></open-data>
-
+<!-- <open-data type="userNickName"></open-data>
+<open-data type="userAvatarUrl"></open-data> -->
+<!-- 
 <view bindtap='handleViewClick'>{{message}}</view>
-<view wx:for="{{list}}">{{item.title}}</view>
+<view wx:for="{{list}}">{{item.title}}</view> -->
+
+<view>1.知识点1</view>
+<view>哈哈哈哈</view>
+
+<!-- <view>2.知识点2</view>
+<view>呵呵呵呵呵</view> -->
