@@ -16,7 +16,7 @@
 <view bindtap='handleViewClick'>{{message}}</view>
 <view wx:for="{{list}}">{{item.title}}</view> -->
 
-<view>1.知识点1</view>
+<view>2.知识点2</view>
 <view>哈哈哈哈</view>
 
 <!-- <view>2.知识点2</view>
